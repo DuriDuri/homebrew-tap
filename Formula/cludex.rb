@@ -9,23 +9,23 @@ class Cludex < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.2/cludex-darwin-arm64-0.1.2.tar.gz"
-      sha256 "55ddb666a34acae79ca22b93e53ef046613207043aa8e64d51e4638beb4e5e13"
+      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.3/cludex-darwin-arm64-0.1.3.tar.gz"
+      sha256 "d5b48387166d28e79d6fb5a240591b9bdcf6b5cdf4d2f59fb89106899c59c185"
     end
     on_intel do
-      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.2/cludex-darwin-x64-0.1.2.tar.gz"
-      sha256 "7281a4fcfd30bc02fa8b386e95dbabeb37149a9dd238338648c46ac2aba0e6d6"
+      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.3/cludex-darwin-x64-0.1.3.tar.gz"
+      sha256 "9cba1c86e8dfe46cfcac5096c10e6e15a785149049c05e14e79f00e6cdbd1830"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.2/cludex-linux-arm64-0.1.2.tar.gz"
-      sha256 "018bf7a189e3d36151868cd1080b29b3479fe97f51b41f2c1a9cb96c020864ce"
+      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.3/cludex-linux-arm64-0.1.3.tar.gz"
+      sha256 "31c8116164a9c63734ffde04d6db28336c2d1137235375f660205b4d5f7d5b41"
     end
     on_intel do
-      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.2/cludex-linux-x64-0.1.2.tar.gz"
-      sha256 "50ecb41e577b797d73f74bc5988982782b80a292f972401bfd39f9f61d68676c"
+      url "https://github.com/DuriDuri/cludex/releases/download/v0.1.3/cludex-linux-x64-0.1.3.tar.gz"
+      sha256 "8f1296acdfacaf8f2afec530363652b5f4a25ad4bad00194b98b0e594743c4da"
     end
   end
 
